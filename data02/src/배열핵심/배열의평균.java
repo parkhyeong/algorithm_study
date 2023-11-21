@@ -3,7 +3,7 @@ package ¹è¿­ÇÙ½É;
 public class ¹è¿­ÀÇÆò±Õ {
 
 	public static void main(String[] args) {
-		int [] numbers= {1, 2,3 ,4, 5,6,7,8,9,10};
+		int [] numbers= {1, 2, 3 , 4, 5, 6, 7, 8, 9, 10};
 		Solution s = new Solution();
 		double result=s.solution(numbers);
 		s.solution(numbers);
